@@ -6,6 +6,16 @@
     <title>Document</title>
 </head>
 <body>
-    <H1>MAGANDA AKO!</H1>
+    <table border = "1">
+        <tr>
+            <th>ID</th>
+            <th>UPC</th>
+            <th>Name</th> 
+            <th>Quantity</th>  
+            <th>Price</th>   
+            <th>Expiry_date</th> 
+            <th>Created_at</th> 
+        </tr>
+    </table>
 </body>
 </html>
